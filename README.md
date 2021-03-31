@@ -1,14 +1,12 @@
-# MAST LAB PROBES
+# MAST LAB - PROBES
 > This repository contains instructions and information regarding the software backend of our paper.
-
-[![StremeCoder Version]][https://www.stremecoder.com/]
 
 ## Requirements
 
-- Python
-- StremeCoder
-- Pip
-  - Pip Requirements:
+- Download Python
+- Buy StremeCoder Software [https://www.stremecoder.com/]
+- Download Pip
+  - Pip Requirements to run this program:
     - ```sh
         pip install pandas
         pip install simpleaudio
