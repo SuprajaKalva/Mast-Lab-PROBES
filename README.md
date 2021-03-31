@@ -1,5 +1,5 @@
 # Mast Lab - PROBES Implementation 
-> This repository contains information regarding the software backend for our rodent odor discrimination apparatus from our paper/lab.
+> This repository contains information regarding the software backend of our rodent odor discrimination apparatus from our paper/lab.
 
 ## Requirements
 
