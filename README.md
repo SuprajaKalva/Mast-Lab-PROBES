@@ -1,4 +1,4 @@
-# MAST LAB - PROBES
+# Mast Lab - PROBES
 > This repository contains instructions and information regarding the software backend of our paper.
 
 ## Requirements
