@@ -24,7 +24,7 @@ In order to run the program, please download the koi file in the repository and 
 ## Release History
 
 * 0.0.2
-    * First release deployed
+    * First release deployed in lab
 * 0.0.1
     * Work in progress
 
