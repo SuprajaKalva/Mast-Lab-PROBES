@@ -1,5 +1,5 @@
 # Mast Lab - PROBES Implementation 
-> This repository contains instructions and information regarding the software backend of our paper.
+> This repository contains instructions and information regarding the software backend of our paper/lab.
 
 ## Requirements
 
