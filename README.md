@@ -51,3 +51,7 @@ Distributed under the GNU GPLv3 license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+## Bugs and Issues
+
+Please report all the bugs and issues to the GitHub issue page with proper labels for them to be fixed and reviewed.
