@@ -54,4 +54,4 @@ Distributed under the GNU GPLv3 license. See ``LICENSE`` for more information.
 
 ## Bugs and Issues
 
-Please report all the bugs and issues to the GitHub issue page with proper labels for them to be fixed and reviewed.
+Please report all the bugs and issues to the GitHub issues page with proper labels for them to be fixed and reviewed.
