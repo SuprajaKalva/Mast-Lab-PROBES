@@ -26,8 +26,7 @@ In order to run the program, please download the koi file in the repository and 
     ![Screen Shot 2021-04-01 at 12 56 52 AM](https://user-images.githubusercontent.com/17326018/113245835-c185a900-9285-11eb-80ca-790ac62fa5ac.png)
     
     ![Screen Shot 2021-04-01 at 1 02 11 AM](https://user-images.githubusercontent.com/17326018/113245910-ebd76680-9285-11eb-8269-a745a0c74e5d.png)
- 
-    Above pictures a courtesy of: Boloor, A. J., Shah, S., Shah, U., & Schwartz, M. (2016). Arduino: Building LED and Espionage Projects. Packt Publishing.
+    **Above pictures a courtesy of: Boloor, A. J., Shah, S., Shah, U., & Schwartz, M. (2016). Arduino: Building LED and Espionage Projects. Packt Publishing.**
 
 
 ## Release History
